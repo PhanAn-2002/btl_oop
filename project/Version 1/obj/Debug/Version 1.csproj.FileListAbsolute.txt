@@ -1,0 +1,33 @@
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.frmChinh.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.csproj.GenerateResource.Cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.frmCapNhat.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.exe.config
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.exe
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.pdb
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.csprojResolveAssemblyReference.cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.frmChinh.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.frmCapNhat.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.csproj.GenerateResource.Cache
+C:\Users\NguyenVietNamSon\Desktop\OOP (3-2015) - Buoi 22 - 23\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.FormTimKiem.resources
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.exe.config
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.exe
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\bin\Debug\Version 1.pdb
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.csproj.AssemblyReference.cache
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.frmChinh.resources
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.frmCapNhat.resources
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.FormTimKiem.resources
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.csproj.GenerateResource.cache
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.csproj.CoreCompileInputs.cache
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.exe
+C:\Users\DUC VU\Downloads\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Chuong 16 - Xay Dung Ung Dung Quan Ly Nhan Vien - C# Windows Form\Phan Mem Quan Ly Cong Ty\Version 1\obj\Debug\Version 1.pdb

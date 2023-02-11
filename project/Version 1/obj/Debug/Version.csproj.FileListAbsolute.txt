@@ -1,0 +1,25 @@
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\bin\Debug\Version 1.exe.config
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\bin\Debug\Version 1.exe
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\bin\Debug\Version 1.pdb
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version.csproj.AssemblyReference.cache
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version_1.frmChinh.resources
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version_1.frmCapNhat.resources
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version_1.FormTimKiem.resources
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version.csproj.GenerateResource.cache
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version.csproj.CoreCompileInputs.cache
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version 1.exe
+D:\Nam 2\OOP\Chuong 6 - Lam Quen C# Console _ C# Windows Form\project\Version 1\obj\Debug\Version 1.pdb
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\bin\Debug\Version 1.exe.config
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\bin\Debug\Version 1.exe
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\bin\Debug\Version 1.pdb
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version.csproj.AssemblyReference.cache
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version.csproj.SuggestedBindingRedirects.cache
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version_1.frmChinh.resources
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version_1.frmCapNhat.resources
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version_1.FormTimKiem.resources
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version.csproj.GenerateResource.cache
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version.csproj.CoreCompileInputs.cache
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version 1.exe
+D:\Tai_lieu_dai_hoc\oop\project\Version 1\obj\Debug\Version 1.pdb
